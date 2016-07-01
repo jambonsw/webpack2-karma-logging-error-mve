@@ -1,0 +1,24 @@
+{
+  "name": "webpack2-karma-logging-error-mve",
+  "version": "1.0.0",
+  "description": "Minimum-Viable-Example to demonstrate Promise errors and console logging errors in Karma using Webpack 2.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "NODE_ENV=development ./node_modules/karma/bin/karma start --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jambonsw/webpack2-karma-logging-error-mve.git"
+  },
+  "keywords": [
+    "karma",
+    "webpack"
+  ],
+  "author": "JamBon Software",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/jambonsw/webpack2-karma-logging-error-mve/issues"
+  },
+  "homepage": "https://github.com/jambonsw/webpack2-karma-logging-error-mve#readme"
+}
