@@ -1,5 +1,12 @@
 # Read Me
 
+**Change of Plans**: If you're on this branch, it means you're here for
+[issue 146 of
+karma-webpack](https://github.com/webpack/karma-webpack/issues/146). The
+only difference between this branch and master is that the following
+command has been run on this branch: `npm i --save-dev
+jambonsw/karma-webpack#issue_146_fix_no_provider_errors`
+
 Minimum-Viable-Example to demonstrate Promise errors and console logging
 errors in Karma using Webpack 2.
 
